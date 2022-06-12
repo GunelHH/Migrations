@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9D37B615-0882-4091-9F94-F1E736B2FCCE}|Default">
+  <MonoDevelop.Ide.ItemProperties.MigrationToDataBase PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20220611135733_blogmodified.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="25" Column="63" />
+      <File FileName="DAL/AppDbContext.cs" Line="15" Column="38" />
+      <File FileName="Migrations/20220611135733_blogmodified.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MigrationToDataBase" expanded="True">
+            <Node name="MigrationToDataBase" expanded="True">
+              <Node name="DAL" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20220611135733_blogmodified.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
